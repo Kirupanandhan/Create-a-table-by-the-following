@@ -51,6 +51,6 @@ public class Solution {
 }
 ```
 ## Output
-![git](./op.png)
+![image](https://github.com/Kirupanandhan/Create-a-table-by-the-following/assets/94386222/7acc6ea4-cb79-4494-bee1-daec9f2802f3)
 ## Result
 We have successfully created a Java program to create an object outside the main class.
